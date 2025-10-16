@@ -30,7 +30,7 @@ Through this analysis, we can observe trends in Dhoni’s batting performance, h
 ## 🎥 Dashboard Preview
 Check out the interactive dashboard walkthrough below 👇
 
-https://github.com/yourusername/Dhoni-ODI-Performance/blob/main/Dhoni.mp4
+[Dashboard Working Video](https://github.com/Gayathri1003/MS-Dhoni-ODI-Stats/blob/main/Dhoni.mp4)
 
 ---
 
